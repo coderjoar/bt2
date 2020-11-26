@@ -1,0 +1,26 @@
+.box{
+	min-height: 100px;
+	background-color: green;
+}
+.box2{
+	min-height: 100px;
+	background-color: red;
+}
+
+.box3{
+	min-height: 100px;
+	background-color: orange;
+	margin-top: 20px;
+}
+.box3 h1{
+	font-size: 30px;
+}
+
+.mh-400{
+	min-height: 400px;
+	border: 1px solid red;
+}
+
+.box4{
+	border: 1px solid lime;
+}
